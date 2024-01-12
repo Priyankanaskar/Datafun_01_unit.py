@@ -71,7 +71,7 @@ byline: str = f"""
 if __name__ == '__main__':
     main()
 
-Fairways Analytics Consulting
+Stellar Analytics Inc
 Rate Per Hour: $62.99
 Skills Include: Quick-learner, Problem-Solver, Enthusiastic, and Open-Minded
 Has Masters Degree: False
